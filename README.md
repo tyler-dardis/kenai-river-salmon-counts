@@ -5,6 +5,9 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 
 **Timeline:** My goal is to have the model ready to deploy before the 2024 salmon run (July).
 
+## Next steps:
+- Write scripts to pull data from external sources
+
 ### Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):
 - **data/** - Contains all data pulled by data_ingestion.py scripts

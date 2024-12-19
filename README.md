@@ -11,8 +11,8 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 ## Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):
 - **data/** - Contains all data pulled by data_ingestion.py scripts
-  - **raw data/** - Raw, unprocessed data files
-  - **processed/** - Processed data, prepared for modeling
+  - **raw_data/** - Raw, unprocessed data files
+  - **processed_data/** - Processed data, prepared for modeling
 - **notebooks**/ - Contains all notebooks used for prototyping
   - **EDA.ipynb** - Exploratory data analysis notebook
   - **data_processing.ipynb** - Data cleaning/processing and feature engineering notebook

@@ -8,7 +8,7 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 ## Next steps:
 - Write scripts to pull data from external sources
 
-### Repository Structure
+## Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):
 - **data/** - Contains all data pulled by data_ingestion.py scripts
   - **raw data/** - Raw, unprocessed data files
@@ -34,7 +34,7 @@ My goal for this project is to develop a machine learning pipeline that utilizes
   - **predict.py** - Command-line interface for predicitons
 - **requirements.txt** - List of all dependencies
 
-### Data for training model:
+## Data for training model:
 |Data Description|Source|Link|Frequency|
 |----|------|----|---------|
 |Fish counts (sockeye salmon)|Alaska Department of Fish and Game|https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=40&SpeciesID=420|Daily|

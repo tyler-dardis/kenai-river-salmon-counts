@@ -14,6 +14,7 @@ My goal for this project is to develop a machine learning pipeline that utilizes
   - **raw_data/** - Raw, unprocessed data files
   - **processed_data/** - Processed data, prepared for modeling
 - **notebooks**/ - Contains all notebooks used for prototyping
+  - **data_ingestion.ipynb** - Data ingestion notebook, fetching data from external sources and saving unprocessed data in .../data/raw_data/
   - **EDA.ipynb** - Exploratory data analysis notebook
   - **data_processing.ipynb** - Data cleaning/processing and feature engineering notebook
   - **model_evaluation.ipynb** - Model training and evaluation notebook

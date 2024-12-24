@@ -7,6 +7,9 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 
 ## Next steps:
 - Write scripts to pull data from external sources
+  - Fish counts - DONE
+  - Water metrics - DONE
+  - Weather data (need to identify which NWS sites should be included)
 
 ## Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):

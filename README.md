@@ -7,6 +7,7 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 
 ## Next steps:
 - Write scripts to pull data from external sources
+  - **MIGRATE THIS TASK LIST TO ISSUES/PROJECTS**
   - (DONE) Fish counts - Working scripts in notebook; need to finalize in .py file
   - (DONE) Water metrics - Working scripts in notebook; need to finalize in .py file
   - Water levels/tidal data - Working on scripts to pull from NOAA API. (reference links in notebooks)

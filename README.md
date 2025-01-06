@@ -5,15 +5,6 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 
 **Timeline:** My goal is to have the model ready to deploy before the 2024 salmon run (July).
 
-## Next steps:
-- Write scripts to pull data from external sources
-  - **MIGRATE THIS TASK LIST TO ISSUES/PROJECTS**
-  - (DONE) Fish counts - Working scripts in notebook; need to finalize in .py file
-  - (DONE) Water metrics - Working scripts in notebook; need to finalize in .py file
-  - Water levels/tidal data - Working on scripts to pull from NOAA API. (reference links in notebooks)
-  - Weather data (need to identify which NWS sites should be included)
-  - Consolidate data ingestion scripts into a .py file for production
-
 ## Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):
 - **data/** - Contains all data pulled by data_ingestion.py scripts

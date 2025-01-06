@@ -45,8 +45,9 @@ My goal for this project is to develop a machine learning pipeline that utilizes
 |Data Description|Source|Link|Frequency|
 |----|------|----|---------|
 |Fish counts (sockeye salmon)|Alaska Department of Fish and Game|https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=40&SpeciesID=420|Daily|
-|Water temperature, air temperature, water level, discharge/flow rates|USGS|https://waterdata.usgs.gov/monitoring-location/15266300/#dataTypeId=continuous-00065-0&period=P7D&showMedian=false| Daily(?)|
-|Trolling records|?|?|?|
+|Water temperature, air temperature, discharge/flow rates|USGS|https://waterdata.usgs.gov/monitoring-location/15266300/#dataTypeId=continuous-00065-0&period=P7D&showMedian=false|Daily|
+|Water level/tidal data|NOAA|https://tidesandcurrents.noaa.gov/waterlevels.html?id=9455760|Daily|
+|Trawling records|?|?|?|
 |Historical fishing restrictions|Alaska Department of Fish and Game|?|?|
 
 ## Further reading/research:

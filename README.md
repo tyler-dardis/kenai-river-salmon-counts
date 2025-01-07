@@ -3,7 +3,7 @@ Machine learning project to forecast fish counts (late-run sockeye salmon) in th
 
 My goal for this project is to develop a machine learning pipeline that utilizes historical fish count data, as well as environmental data, to forecast daily fish counts during the sockeye salmon run in the Kenai River (Kenai Peninsula, Alaska).
 
-**Timeline:** My goal is to have the model ready to deploy before the 2024 salmon run (July).
+**Timeline:** My goal is to have the model ready to deploy before the 2025 salmon run (July).
 
 ## Repository Structure
 (This is more of the _planned_ structure, since many of these components have not yet been added):
